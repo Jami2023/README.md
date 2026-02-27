@@ -1,0 +1,13 @@
+AgroLink — Smart Farm Marketplace & Logistics Platform
+--------------------------------------------------------
+AgroLink is a digital platform that directly connects farmers, buyers, and logistics providers through a smart marketplace system.
+
+Features:
+1. Farmer Features
+2. Logistics Provider Features
+3. Admin Panel Features
+4. Logistics & Tracking Features
+5. Marketplace Features
+6. Payment Features
+
+
